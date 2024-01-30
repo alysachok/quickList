@@ -6,7 +6,7 @@ The Quick List App is an intuitive to-do list manager that enables users to easi
 Creating this project allowed me to practice CRUD (Create, Read, Update, Delete) data operations and manage application state on the front-end side.
 
 ## Features
-**CRUD Operations:**
+
 - **Create**: Add new tasks to the to-do list.
 - **Read**: View the list of tasks.
 - **Update**: Mark tasks as completed and edit the content of existing tasks.
